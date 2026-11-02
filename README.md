@@ -95,8 +95,8 @@ These questions are intended to connect model evaluation with real operational d
 
 ## Repository roadmap
 
-- [ ] Confirm dataset approval and finalise the research question
-- [ ] Set up reproducible Python environment and project structure
+- [X] Confirm dataset approval and finalise the research question
+- [X] Set up reproducible Python environment and project structure
 - [ ] Complete data audit and exploratory analysis
 - [ ] Implement preprocessing and baseline model
 - [ ] Train and validate competing classification models
